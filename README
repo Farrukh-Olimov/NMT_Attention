@@ -1,2 +1,15 @@
 Neural Machine Translation with Attention based on "Neural Machine Translation By joint Learning to Align and Translate"
 
+
+Details: 
+
+Vocablary limit         : 12.000 words 
+Sentence Length limit   : 50 words  
+Embedding dimensionts   : 300 dims 
+English Embedding       : GLOVE 300d
+Russian Embedding       : Self-trained 300d
+GRU layer               : Bidirectional 
+
+
+ 
+
